@@ -1,0 +1,41 @@
+
+.container{
+
+
+
+}
+
+
+#hdr-con{
+
+display:flex;
+flex-flow:column;
+align-items:center;
+justify-content:center;
+height: 500px;
+width:1000px;
+}
+
+p{
+
+
+font-family:-apple-system,BlinkMacSystemFont,"SegoeUI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-
+serif.
+
+font-size:18 px;
+color:#2D3748;
+
+}
+
+img{
+
+
+	height:200px;
+	width: 200px;
+}
+
+header>div>img{
+ 
+  border: 2px solid;
+  border-radius:500px;
+}
